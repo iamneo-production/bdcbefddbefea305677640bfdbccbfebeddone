@@ -11,9 +11,9 @@ input{
     padding:5px;
     margin-bottom: 10px;
 }
-batton{
+button{
     padding:10px 20px;
-    background-color: green;
+    background-color: #4CAF50;
     color:white;
     border:none;
     cursor:pointer;
