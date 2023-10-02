@@ -4,10 +4,17 @@
 }
 label{
     display:block;
-    margin: bottom 5px;
+    margin-bottom: 5px;
 }
 input{
     width:300px;
     padding:5px;
-    margin: botom 10px;
+    margin-bottom: 10px;
+}
+batton{
+    padding:10px 20px;
+    background-color: green;
+    color:white;
+    border:none;
+    cursor:pointer;
 }
